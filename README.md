@@ -1,6 +1,4 @@
 # .myProfile-mainPage
-The MAIN PROFILE Page!
-
 
 <h1>Hi, I'm Pratul Kumar Patel 👋</h1>
 
