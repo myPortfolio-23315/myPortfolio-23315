@@ -1,11 +1,10 @@
-# .myProfile-mainPage
+<!-- # .myProfile-mainPage -->
 
 <h1>Hi, I'm Pratul Kumar Patel 👋</h1>
 
-<p>
-  <b>Server Engineer</b> | Strengthening VMware & Azure Infrastructure |  
-  Driving Automation & Compliance through DevOps Practices | Tech Blogger
-</p>
+<b>
+  Senior System Administrator | Cloud & DevOps Enthusiast
+</b>
 
 <p>
   <a href="https://www.linkedin.com/in/pratulpatel/">LinkedIn</a> •
