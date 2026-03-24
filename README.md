@@ -1,7 +1,6 @@
 <!-- # .myProfile-mainPage -->
 
 <h1>Hi, I'm Pratul Kumar Patel 👋</h1>
-
 <h3>
   Senior System Administrator | Cloud & DevOps Enthusiast
 </h3>
