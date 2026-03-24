@@ -2,16 +2,32 @@
 The MAIN PROFILE Page!
 
 
-<h1>Hi, I'm Pratul! <br/><a href="https://hashnode.com/@pratul233">Cloud & DevOps Enthusiast</a>, <a href="https://www.linkedin.com/in/pratulpatel/">Senior System Administrator</a>
+<h1>Hi, I'm Pratul! <br/><a href="https://www.linkedin.com/in/pratulpatel/">Senior System Administrator</a>, <a href="https://hashnode.com/@pratul233">Cloud & DevOps Enthusiast</a>
 
-<h2>>📘 Projects</h2>
+<!-- <h2>>📘 Projects</h2>
   <h3>> ![alt text](image.png) Azure Projects:</h3>
     - <b>VM Troop Commander (Deploy and manage Azure compute resources)</b>
       - [Automating VM Provisioning and Scalable Infrastructure using Version-controlled IaC](https://github.com/prak96/IaC.git)
     - <b>NetBridge (Implement and Manage Virtual Networking)</b>
       - [Network Automation and Connectivity management using scripts and infrastructure concepts](https://github.com/prak96/netbridge.git)
     - <b>Insightscape (Optimizing Azure Resource Deployment with Backup & Monitoring)</b>
-      - [Practicing data analysis, insights generation, and visualization using data-driven workflows](https://github.com/prak96/Insightscape.git)
+      - [Practicing data analysis, insights generation, and visualization using data-driven workflows](https://github.com/prak96/Insightscape.git) -->
+
+## 📘 Projects
+
+### Azure / DevOps Projects
+
+**VM Troop Commander (IaC, Azure Compute)**  
+Automating VM provisioning and scalable infrastructure using version-controlled IaC  
+
+**NetBridge (Azure Networking, Automation)**  
+Network automation and connectivity management using scripts and infrastructure concepts  
+
+**Insightscape (Monitoring, Backup, Optimization)**  
+Optimizing Azure resource deployment with backup, monitoring, and data-driven insights workflows  
+
+
+
 
 <h2>>👨‍💻 Blogs </h2>
 
