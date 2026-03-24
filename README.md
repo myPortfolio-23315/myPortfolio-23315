@@ -2,14 +2,10 @@
 
 <h1>Hi, I'm Pratul Kumar Patel 👋</h1>
 
-<b>
+<h3>
   Senior System Administrator | Cloud & DevOps Enthusiast
-</b>
+</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/pratulpatel/">LinkedIn</a> •
-  <a href="https://hashnode.com/@pratul233">Hashnode</a>
-</p>
 
 <!-- <h2>>📘 Projects</h2>                                      THIS IS NOT WORKING SO COMMENTED OUT
   <h3>> ![alt text](image.png) Azure Projects:</h3>
