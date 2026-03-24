@@ -2,7 +2,17 @@
 The MAIN PROFILE Page!
 
 
-<h1>Hi, I'm Pratul! <br/><a href="https://www.linkedin.com/in/pratulpatel/">Senior System Administrator</a>, <a href="https://hashnode.com/@pratul233">Cloud & DevOps Enthusiast</a>
+<h1>Hi, I'm Pratul Kumar Patel 👋</h1>
+
+<p>
+  <b>Server Engineer</b> | Strengthening VMware & Azure Infrastructure |  
+  Driving Automation & Compliance through DevOps Practices | Tech Blogger
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/pratulpatel/">LinkedIn</a> •
+  <a href="https://hashnode.com/@pratul233">Hashnode</a>
+</p>
 
 <!-- <h2>>📘 Projects</h2>                                      THIS IS NOT WORKING SO COMMENTED OUT
   <h3>> ![alt text](image.png) Azure Projects:</h3>
