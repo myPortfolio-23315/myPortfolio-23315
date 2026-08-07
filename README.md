@@ -41,9 +41,10 @@ Optimizing Azure resource deployment with backup, monitoring, and data-driven in
 
 [<img align="left" alt="Pratul Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pratul Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Pratul Patel | Hashnode" width="22px" src="https://cdn.simpleicons.org/hashnode/white" />]
-[hashnode]
+<a href="https://hashnode.com/@pratul233/">
+  <img align="left" alt="Hashnode" width="22px" src="https://cdn.simpleicons.org/hashnode/white" />
+</a>
 
 [twitter]: https://x.com/pratul233pa/
 [linkedin]: https://www.linkedin.com/in/pratulpatel/
-[hashnode]: https://hashnode.com/@pratul233/
+
