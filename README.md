@@ -32,7 +32,13 @@ Optimizing Azure resource deployment with backup, monitoring, and data-driven in
 <h2> 👨‍💻 Blogs </h2>
 
 - [Ops Unplugged](https://myspace233.hashnode.dev/)
+  - [Linux Space — Shell, Linux, Kernel & File Management](https://myspace233.hashnode.dev/series/shell-linux-kernel-filemgmt-os)
+  - [MyDevOpsSpace — DevOps Tasks](https://myspace233.hashnode.dev/series/devops-tasks)
+
 - [InfraBytes](https://infrabytes.hashnode.dev/)
+  - [VMware Area — vSphere Administration](https://infrabytes.hashnode.dev/series/vsphere-admin)
+  - [Mastering Intune Packages](https://infrabytes.hashnode.dev/series/sccm-series)
+  
 - [Azure Insights](https://azinsights.hashnode.dev/)
 - [AWS & More](https://myawsworkspace.hashnode.dev/)
 
