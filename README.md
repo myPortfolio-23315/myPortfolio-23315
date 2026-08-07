@@ -46,4 +46,4 @@ Optimizing Azure resource deployment with backup, monitoring, and data-driven in
 
 [twitter]: https://x.com/pratul233pa/
 [linkedin]: https://www.linkedin.com/in/pratulpatel/
-[hashnode]: https://hashnode.com/@pratul233
+[hashnode]: https://hashnode.com/@pratul233/
