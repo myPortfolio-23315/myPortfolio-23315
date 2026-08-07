@@ -15,7 +15,7 @@
     - <b>Insightscape (Optimizing Azure Resource Deployment with Backup & Monitoring)</b>
       - [Practicing data analysis, insights generation, and visualization using data-driven workflows](https://github.com/prak96/Insightscape.git) -->
 
-## 📘 Projects
+## 🎯 Projects
 
 ### Azure / DevOps Projects
 
