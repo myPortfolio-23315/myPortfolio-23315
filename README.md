@@ -17,9 +17,18 @@
 
 ## 🎯 Projects
 
+### AWS / Terraform Projects
+
+**[Terraform Projects — AWS Infrastructure & Automation](https://github.com/prak96/terraform-projects)**  
+A progressive series of hands-on Terraform projects...
+- [001 — Automated NGINX Deployment on AWS](https://github.com/prak96/terraform-projects/tree/main/mini-projects/001-terraform-aws-nginx)  
+  Provisioning AWS infrastructure and deploying NGINX on EC2 using Terraform.
+
+- 🚧 More mini & major projects coming soon...
+
 ### Azure / DevOps Projects
 
-**[VM Troop Commander (IaC, Azure Compute)](https://github.com/prak96/IaC.git)**  
+**[VM Troop Commander (ARM Templates, Azure Compute)](https://github.com/prak96/IaC.git)**  
 Automating VM provisioning and scalable infrastructure using version-controlled IaC  
 
 **[NetBridge (Azure Networking, Automation)](https://github.com/prak96/netbridge.git)**  
