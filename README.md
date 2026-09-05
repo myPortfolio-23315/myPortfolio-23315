@@ -20,9 +20,20 @@
 ### AWS / Terraform Projects
 
 **[Terraform Projects — AWS Infrastructure & Automation](https://github.com/prak96/terraform-projects)**  
-A progressive series of hands-on Terraform projects...
-- [001 — Automated NGINX Deployment on AWS](https://github.com/prak96/terraform-projects/tree/main/mini-projects/001-terraform-aws-nginx)  
+  A progressive series of hands-on Terraform projects...
+
+#### Mini Projects
+- **[001 — Automated NGINX Deployment on AWS](https://github.com/prak96/terraform-projects/tree/main/mini-projects/001-terraform-aws-nginx)**  
+
   Provisioning AWS infrastructure and deploying NGINX on EC2 using Terraform.
+
+- **[002 — AWS S3 Static Website Deployment](https://github.com/prak96/terraform-projects/tree/main/mini-projects/002-terraform-aws-s3-static-website)**
+
+  Automating S3 bucket creation, static website hosting, bucket policies, public access configuration, and website file deployment using Terraform; deployed a browser-based Calculator application.
+
+- **[003 — AWS EC2 with Terraform Data Sources](https://github.com/prak96/terraform-projects/tree/main/mini-projects/003-terraform-aws-data-sources)**
+
+  Dynamically discovering AMIs, existing VPCs, Availability Zones, AWS region and account identity using Terraform Data Sources; implemented provider aliases for multi-region AWS deployments and EC2 provisioning.
 
 - 🚧 More mini & major projects coming soon...
 
