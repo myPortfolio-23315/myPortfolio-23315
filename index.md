@@ -1,123 +1,98 @@
 ---
 layout: default
+title: "Pratul Kumar Patel | Infrastructure & Cloud Portfolio"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Hi, I'm Pratul Kumar Patel 👋
 
-[Link to another page](./another-page.html).
+### Senior System Administrator | Cloud & DevOps Enthusiast
 
-There should be whitespace between paragraphs.
+Infrastructure-focused professional building hands-on experience across **VMware, Azure, AWS, Terraform, Linux, Windows, and DevOps automation**.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🎯 Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### ☁️ AWS / Terraform Projects
 
-## Header 2
+**[Terraform Projects — AWS Infrastructure & Automation](https://github.com/prak96/terraform-projects)**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+A progressive collection of hands-on Terraform projects focused on infrastructure provisioning, automation, and practical AWS workflows.
 
-### Header 3
+#### Mini Projects
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **[001 — Automated NGINX Deployment on AWS](https://github.com/prak96/terraform-projects/tree/main/mini-projects/001-terraform-aws-nginx)**  
+  Provisioning AWS infrastructure and deploying NGINX on EC2 using Terraform.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **[002 — AWS S3 Static Website Deployment](https://github.com/prak96/terraform-projects/tree/main/mini-projects/002-terraform-aws-s3-static-website)**  
+  Automating S3 bucket creation, static website hosting, bucket policies, public-access configuration, and website deployment using Terraform. Includes a browser-based Calculator application.
 
-#### Header 4
+- **[003 — AWS EC2 with Terraform Data Sources](https://github.com/prak96/terraform-projects/tree/main/mini-projects/003-terraform-aws-data-sources)**  
+  Dynamically discovering AMIs, existing VPCs, Availability Zones, AWS regions, and account identity using Terraform Data Sources. Includes provider aliases for multi-region AWS deployments and EC2 provisioning.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> 🚧 More mini and major infrastructure projects coming soon.
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### ☁️ Azure / DevOps Projects
 
-###### Header 6
+**[VM Troop Commander — ARM Templates & Azure Compute](https://github.com/prak96/IaC.git)**  
+Automating VM provisioning and scalable infrastructure using version-controlled Infrastructure as Code.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**[NetBridge — Azure Networking & Automation](https://github.com/prak96/netbridge.git)**  
+Network automation and connectivity management using scripts and infrastructure concepts.
 
-### There's a horizontal rule below this.
+**[Insightscape — Monitoring, Backup & Optimization](https://github.com/prak96/Insightscape.git)**  
+Exploring Azure resource deployment with backup, monitoring, optimization, and data-driven workflow concepts.
 
-* * *
+---
 
-### Here is an unordered list:
+## 🛠️ Technology Focus
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+| Area | Technologies |
+|:---|:---|
+| **Infrastructure** | VMware, Virtualization, Compute & Infrastructure Administration |
+| **Cloud** | Microsoft Azure, AWS |
+| **Infrastructure as Code** | Terraform, ARM Templates |
+| **Systems** | Linux, Windows |
+| **DevOps** | Git, Automation, CI/CD concepts |
+| **Projects** | Cloud provisioning, networking, monitoring, backup & infrastructure automation |
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## 📚 Blogs & Technical Writing
 
-### And a nested list:
+### **[Ops Unplugged](https://myspace233.hashnode.dev/)**
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- **[Linux Space — Shell, Linux, Kernel & File Management](https://myspace233.hashnode.dev/series/shell-linux-kernel-filemgmt-os)**
+- **[MyDevOpsSpace — DevOps Tasks](https://myspace233.hashnode.dev/series/devops-tasks)**
 
-### Small image
+### **[InfraBytes](https://infrabytes.hashnode.dev/)**
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+- **[VMware Area — vSphere Administration](https://infrabytes.hashnode.dev/series/vsphere-admin)**
+- **[Mastering Intune Packages](https://infrabytes.hashnode.dev/series/sccm-series)**
 
-### Large image
+### **[Azure Insights](https://azinsights.hashnode.dev/)**
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Azure-focused technical notes, experiments, and learning resources.
 
+### **[AWS & More](https://myawsworkspace.hashnode.dev/)**
 
-### Definition lists can be used with HTML syntax.
+AWS, cloud infrastructure, and related hands-on learning.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## 🔗 Connect With Me
 
-```
-The final element.
-```
+- **[GitHub](https://github.com/prak96)**
+- **[LinkedIn](https://www.linkedin.com/in/pratulpatel/)**
+- **[X / Twitter](https://x.com/pratul233pa/)**
+- **[Hashnode](https://hashnode.com/@pratul233/)**
+
+---
+
+## 📌 Portfolio
+
+**GitHub:** [github.com/prak96](https://github.com/prak96)
+
+**Portfolio:** [myPortfolio-23315](https://github.com/myPortfolio-23315/)
