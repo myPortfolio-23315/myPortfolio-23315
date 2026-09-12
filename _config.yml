@@ -1,7 +1,10 @@
 theme: jekyll-theme-hacker
 
-title: "Pratul Kumar Patel | Infrastructure & Cloud Portfolio"
-description: "Infrastructure, VMware, Cloud, Terraform & DevOps Portfolio"
+title: "My Portfolio Space"
+
+description: "A collection of infrastructure projects—from mini builds to major cloud and automation solutions—backed by practical troubleshooting and technical blogs."
+
+show_downloads: true
 
 github:
   repository_url: "https://github.com/myPortfolio-23315"
