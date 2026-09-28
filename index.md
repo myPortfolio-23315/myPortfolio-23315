@@ -22,6 +22,8 @@ Infrastructure-focused professional building hands-on experience across **VMware
 
   Simulating centralized Linux storage operations—from TrueNAS/ZFS provisioning and NFS deployment to UID/GID-based access control, persistent mounts, permission troubleshooting, failure simulation, performance validation, monitoring, backup, and recovery.
 
+---
+
 ### ☁️ AWS / Terraform Projects
 
 **[Terraform Projects — AWS Infrastructure & Automation](https://github.com/prak96/terraform-projects)**
