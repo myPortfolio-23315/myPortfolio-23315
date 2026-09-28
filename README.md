@@ -23,6 +23,7 @@
   Hands-on Linux infrastructure projects focused on system administration, storage, networking, security, troubleshooting, automation, and operational recovery.
 
 - **[001 — linux-nfs-project](https://github.com/prak96/linux-projects/tree/main/linux-nfs-project)**
+
   Simulating centralized Linux storage operations—from TrueNAS/ZFS provisioning and NFS deployment to UID/GID-based access control, persistent mounts, permission troubleshooting, failure simulation, performance validation, monitoring, backup, and recovery.
 
 
