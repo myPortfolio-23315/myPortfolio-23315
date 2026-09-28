@@ -19,7 +19,7 @@
 
 ### LINUX Projects
 
-**[LINUX Projects — ](https://github.com/prak96/linux-projects)**  
+**[LINUX Projects](https://github.com/prak96/linux-projects)**  
   Hands-on Linux infrastructure projects focused on system administration, storage, networking, security, troubleshooting, automation, and operational recovery.
 
 - **[001 — linux-nfs-project](https://github.com/prak96/linux-projects/tree/main/linux-nfs-project)**
