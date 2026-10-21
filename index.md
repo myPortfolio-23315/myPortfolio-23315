@@ -26,9 +26,6 @@ Infrastructure-focused professional building hands-on experience across **VMware
 
   Building a hardened Linux server environment—from network configuration and VLAN-based firewall segmentation to SSH access control, user privilege management, Apache web hosting, security patching, troubleshooting, and production-style failure recovery.
 
-
-
-
 ---
 
 ### ☁️ AWS / Terraform Projects
