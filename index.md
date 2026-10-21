@@ -22,6 +22,10 @@ Infrastructure-focused professional building hands-on experience across **VMware
 
   Simulating centralized Linux storage operations—from TrueNAS/ZFS provisioning and NFS deployment to UID/GID-based access control, persistent mounts, permission troubleshooting, failure simulation, performance validation, monitoring, backup, and recovery.
 
+- **[002 — linux-hardened-servers-project](https://github.com/prak96/linux-projects/tree/main/hardened-linux-server-project)**
+
+  Building a hardened Linux server environment—from network configuration and VLAN-based firewall segmentation to SSH access control, user privilege management, Apache web hosting, security patching, troubleshooting, and production-style failure recovery.
+
 ---
 
 ### ☁️ AWS / Terraform Projects
